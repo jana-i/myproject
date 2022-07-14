@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\bin\Debug\netcoreapp3.1\ECinema.Services.deps.json
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\bin\Debug\netcoreapp3.1\ECinema.Services.dll
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\bin\Debug\netcoreapp3.1\ECinema.Services.pdb
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\bin\Debug\netcoreapp3.1\ECinema.Domain.dll
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\bin\Debug\netcoreapp3.1\ECinema.Repository.dll
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\bin\Debug\netcoreapp3.1\ECinema.Domain.pdb
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\bin\Debug\netcoreapp3.1\ECinema.Repository.pdb
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\obj\Debug\netcoreapp3.1\ECinema.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\obj\Debug\netcoreapp3.1\ECinema.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\obj\Debug\netcoreapp3.1\ECinema.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\obj\Debug\netcoreapp3.1\ECinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\obj\Debug\netcoreapp3.1\ECinema.Services.csproj.CopyComplete
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\obj\Debug\netcoreapp3.1\ECinema.Services.dll
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Services\obj\Debug\netcoreapp3.1\ECinema.Services.pdb

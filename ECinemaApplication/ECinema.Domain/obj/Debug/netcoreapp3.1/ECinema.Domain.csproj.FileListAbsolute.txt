@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\bin\Debug\netcoreapp3.1\ECinema.Domain.deps.json
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\bin\Debug\netcoreapp3.1\ECinema.Domain.dll
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\bin\Debug\netcoreapp3.1\ECinema.Domain.pdb
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\obj\Debug\netcoreapp3.1\ECinema.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\obj\Debug\netcoreapp3.1\ECinema.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\obj\Debug\netcoreapp3.1\ECinema.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\obj\Debug\netcoreapp3.1\ECinema.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\obj\Debug\netcoreapp3.1\ECinema.Domain.dll
+C:\Users\User\source\repos\ECinemaApplication\ECinema.Domain\obj\Debug\netcoreapp3.1\ECinema.Domain.pdb
